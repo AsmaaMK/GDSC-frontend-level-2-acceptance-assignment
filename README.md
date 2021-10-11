@@ -23,6 +23,8 @@ The designs are in `.png` format, and you will find the text in the `index.html`
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
+You will find all the style guide in the `style-guide.md` file.
+
 ## How to submit your solution?
 1. Initialize your project as a public repository on [GitHub](https://github.com/). 
     OR Upload it on [Drive](https://drive.google.com/).
