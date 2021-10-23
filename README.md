@@ -27,12 +27,8 @@ You will find all the style guide in the `style-guide.md` file.
 
 ## How to submit your solution?
 1. Initialize your project as a public repository on [GitHub](https://github.com/). 
-    OR Upload it on [Drive](https://drive.google.com/).
   
 2. Host your project for free. Our recommend hosts are:
-
    - [GitHub Pages](https://pages.github.com/)
    - [Vercel](https://vercel.com/)
    - [Netlify](https://www.netlify.com/)
-
-3. Share those 2 links on [this form](https://forms.gle/2jtyu71nunqKYyq5A)
