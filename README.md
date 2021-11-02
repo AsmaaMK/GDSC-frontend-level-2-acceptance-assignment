@@ -32,3 +32,6 @@ You will find all the style guide in the `style-guide.md` file.
    - [GitHub Pages](https://pages.github.com/)
    - [Vercel](https://vercel.com/)
    - [Netlify](https://www.netlify.com/)
+
+
+### Note: this assignment from [https://www.frontendmentor.io] frontendmentor.io 
