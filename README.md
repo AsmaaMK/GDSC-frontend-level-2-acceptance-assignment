@@ -34,4 +34,4 @@ You will find all the style guide in the `style-guide.md` file.
    - [Netlify](https://www.netlify.com/)
 
 
-### Note: this assignment from [https://www.frontendmentor.io] frontendmentor.io 
+### Note: this assignment from [frontendmentor.io](https://www.frontendmentor.io) 
